@@ -1,0 +1,1 @@
+py track.py --yolo_model weights/best-yolov5.pt --source "video_test/test2.mp4" --show-vid
